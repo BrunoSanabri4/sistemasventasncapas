@@ -1,6 +1,4 @@
 CREATE DATABASE TIENDABD
-go
-
 
 CREATE TABLE PERSONA (
 IDPERSONA INT IDENTITY (1,1) NOT NULL,
@@ -149,7 +147,6 @@ FOREIGN KEY (IDINGRESO) REFERENCES INGRESO (IDINGRESO),
 FOREIGN KEY (IDPRODUCTO) REFERENCES PRODUCTO (IDPRODUCTO),
 );
 
-
 insert into persona values('Pedro' ,'Fernandez','+59172979377','5744158','pedro@gmail.com','Activo');
 insert into persona values('Adrián' ,'Pérez' ,'+59161234567' ,'1234567' ,'adrian@gmail.com','Activo');
 insert into persona values('Belén','González' ,'+59173456789' ,'87654321' ,'belen@gmail.com','Activo');
@@ -203,7 +200,6 @@ insert into persona values('Valeria' ,'León' ,'+59161472583' ,'4516780' ,'valeri
 
 SELECT * FROM PERSONA
 
-
 insert into rol values ('Gerente','Activo');
 insert into rol values ('Supervisor','Activo');
 insert into rol values ('Cajero','Activo');
@@ -231,7 +227,8 @@ insert into usuario values (18, 'oliviar', '8219', '2023-07-12 13:10:00');
 insert into usuario values (19, 'pabloo', '1520', '2023-08-12 15:06:00');
 insert into usuario values (20, 'emmaa', '7538', '2023-08-20 12:50:00');
 
-select * from USUARIO
+select * from USUARIO 
+
 
 insert into usuariorol values (1, 1, '2022-02-01 14:00:00', 'Activo');
 insert into usuariorol values (2, 2, '2022-02-23 13:50:00', 'Activo');
@@ -253,6 +250,7 @@ insert into usuariorol values (17, 2, '2023-06-10 16:09:00', 'Activo');
 insert into usuariorol values (18, 3, '2023-07-12 13:10:00', 'Activo');
 insert into usuariorol values (19, 4, '2023-08-12 15:06:00', 'Activo');
 insert into usuariorol values (20, 5, '2023-08-20 12:50:00', 'Activo');
+
 
 select * from USUARIOROL
 
@@ -278,7 +276,6 @@ insert into marca values ('Sedal', 'Activo');
 insert into marca values ('Nacional', 'Activo');
 
 select * from MARCA
-
 
 insert into tipoprod values ('Productos Lacteos', 'Activo');
 insert into tipoprod values ('Bebidas Gaseosas', 'Activo');
@@ -371,7 +368,6 @@ insert into ingreso values (7, '2023-09-01 12:50:00', '570', 'Activo');
 insert into ingreso values (8, '2023-09-01 12:50:00', '300', 'Activo');
 insert into ingreso values (9, '2023-09-09 12:50:00', '290', 'Activo');
 insert into ingreso values (10, '2023-09-10 12:50:00', '315', 'Activo');
-
 
 select * from ingreso
 

@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2E142C6D-7783-41D7-8687-114521AE441A}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\sistemasventas.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E142C6D-7783-41D7-8687-114521AE441A}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|solutionrelative:sistemasventas.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66271972-5C23-4879-AB65-D5FDEF44DAFD}|SistemasVentas.Modelos\\SistemasVentas.Modelos.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.vista\\personavistas\\personalistarvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\personavistas\\personalistarvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.vista\\personavistas\\personalistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\personavistas\\personalistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0703B1AB-B8B4-4F5A-B9A9-B5DCB4D77ED0}|SistemasVentas.BSS\\SistemasVentas.BSS.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.bss\\personabss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0703B1AB-B8B4-4F5A-B9A9-B5DCB4D77ED0}|SistemasVentas.BSS\\SistemasVentas.BSS.csproj|solutionrelative:sistemasventas.bss\\personabss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.vista\\personavistas\\personalistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\personavistas\\personalistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66271972-5C23-4879-AB65-D5FDEF44DAFD}|SistemasVentas.Modelos\\SistemasVentas.Modelos.csproj|D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\sistemasventas.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66271972-5C23-4879-AB65-D5FDEF44DAFD}|SistemasVentas.Modelos\\SistemasVentas.Modelos.csproj|solutionrelative:sistemasventas.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0703B1AB-B8B4-4F5A-B9A9-B5DCB4D77ED0}|SistemasVentas.BSS\\SistemasVentas.BSS.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.bss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0703B1AB-B8B4-4F5A-B9A9-B5DCB4D77ED0}|SistemasVentas.BSS\\SistemasVentas.BSS.csproj|solutionrelative:sistemasventas.bss\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\sistemasventas.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33909379-8011-47A5-A0F7-F92BD94F7DC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E142C6D-7783-41D7-8687-114521AE441A}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E142C6D-7783-41D7-8687-114521AE441A}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|solutionrelative:sistemasventas.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E142C6D-7783-41D7-8687-114521AE441A}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|d:\\proyecto final\\sistemasventasncapas\\sistemaventas\\sistemasventas.dal\\personadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E142C6D-7783-41D7-8687-114521AE441A}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|solutionrelative:sistemasventas.dal\\personadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +46,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\Program.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\Program.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\Program.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:04:21.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaListarVista.cs",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:59:15.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.DAL\\conexion.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.DAL\\conexion.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.DAL\\conexion.cs*",
+              "RelativeToolTip": "SistemasVentas.DAL\\conexion.cs*",
+              "ViewState": "AQIAACkAAAAAAAAAAAApwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:57:27.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaListarVista.Designer.cs",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.Designer.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.Designer.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.Designer.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:14:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaListarVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemasVentas.VISTA\\PersonaVistas\\PersonaListarVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:56:21.464Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaBss.cs",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.BSS\\PersonaBss.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.BSS\\PersonaBss.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.BSS\\PersonaBss.cs",
+              "RelativeToolTip": "SistemasVentas.BSS\\PersonaBss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:13:19.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaDAL.cs",
+              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.DAL\\PersonaDAL.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.DAL\\PersonaDAL.cs",
+              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.DAL\\PersonaDAL.cs",
+              "RelativeToolTip": "SistemasVentas.DAL\\PersonaDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:04:32.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.VISTA\\Form1.cs",
               "RelativeDocumentMoniker": "SistemasVentas.VISTA\\Form1.cs",
@@ -42,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.Modelos\\Class1.cs",
               "RelativeDocumentMoniker": "SistemasVentas.Modelos\\Class1.cs",
@@ -51,32 +161,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T04:58:06.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.BSS\\Class1.cs",
-              "RelativeDocumentMoniker": "SistemasVentas.BSS\\Class1.cs",
-              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.BSS\\Class1.cs",
-              "RelativeToolTip": "SistemasVentas.BSS\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T04:56:50.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "SistemasVentas.DAL\\Class1.cs",
-              "ToolTip": "D:\\proyecto final\\sistemasventasncapas\\SistemaVentas\\SistemasVentas.DAL\\Class1.cs",
-              "RelativeToolTip": "SistemasVentas.DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T04:54:17.663Z",
               "EditorCaption": ""
             }
           ]
